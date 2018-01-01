@@ -7,10 +7,10 @@ With Pisth you can work with files and use them with SSH shell. It works also as
 
 ## Features
 
-- [x] Register connections
-- [x] Browse remote files
-- [x] Edit remote files
-- [x] Upload local files
-- [x] Open a Shell in current directory
-- [x] Shell Colors
-- [x] Show commands history in app
+- Register connections
+- Browse remote files
+- Edit remote files
+- Upload local files
+- Open a Shell in current directory
+- Shell Colors
+- Show commands history in app
