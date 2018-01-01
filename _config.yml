@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
 repository: ColdGrub1384/Pisth
+title: ["Pisth"]
+description: ["SSH and SFTP client for iOS"]
