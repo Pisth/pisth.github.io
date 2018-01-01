@@ -1,8 +1,2 @@
 theme: jekyll-theme-architect
-source: https://github.com/ColdGrub1384/Pisth
----
-title: Pisth
-layout: post
----
-
-SFTP and SSH client for iPhone and iPad
+repository: ColdGrub1384/Pisth
