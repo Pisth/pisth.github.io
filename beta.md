@@ -1,4 +1,4 @@
-#Join Beta
+# Join Beta
 Fill fields to register for betas.<br/>Betas are installed via [TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
 <form method="POST" action="https://coldg.ddns.net/cgi-bin/Pisth/betaRegister">
 Email: <input type="email" name="email"><br/>
