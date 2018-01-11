@@ -12,8 +12,7 @@ With Pisth you can work with files and use them with SSH shell. It works also as
   - The Shell supports Bluetooth keyboard including arrows and ctrl keys.
 
 ## Screenshots
-
-</div>
+{% include screenshots.html %}
 
 ## Join Beta
 [Join beta here](beta)
