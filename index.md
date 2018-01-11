@@ -13,7 +13,7 @@ With Pisth you can work with files and use them with SSH shell. It works also as
 
 ## Screenshots
 
-{%include screenshots.html%}
+{% include screenshots.html %}
 
 ## Join Beta
 [Join beta here](beta)
