@@ -14,6 +14,7 @@ With Pisth you can work with files and use them with SSH shell. It works also as
 - Open a Shell in current directory
 - Shell Colors
 - Show commands history in app
+- Bluetooth keyboard support for SSH
 
 ## Join Beta
 Fill fields to register for betas.<br/>Betas are installed via [TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
