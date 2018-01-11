@@ -12,10 +12,4 @@ With Pisth you can work with files and use them with SSH shell. It works also as
   - The Shell supports Bluetooth keyboard including arrows and ctrl keys.
 
 ## Join Beta
-Fill fields to register for betas.<br/>Betas are installed via [TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
-<form method="GET" action="http://coldg.ddns.net/cgi-bin/Pisth/betaRegister">
-Email: <input type="email" name="email"><br/>
-Name: <input type="text" name="name"><br/>
-Lastname: <input type="text" name="lastname"><br>
-<input type="submit">
-</form>
+[Join beta here](beta.md)
