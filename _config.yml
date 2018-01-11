@@ -1,3 +1,6 @@
 theme: jekyll-theme-architect
 title: Pisth
 description: SFTP and SSH client for iPhone and iPad
+
+plugins:
+  - jekyll-seo-tag
