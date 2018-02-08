@@ -1,6 +1,6 @@
 # Pisth Viewer
 
-[Download](https://pisth.github.io/PisthViewer/PisthViewer.zip)
+[Download](https://pisth.github.io/PisthViewer/Pisth%20Viewer.zip)
 
 ![screenshot](screenshot.png)
 
