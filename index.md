@@ -1,6 +1,3 @@
-![Mockup](mockup.png)
-
-
 ![Screenshots](screenshots.png)
 
 
