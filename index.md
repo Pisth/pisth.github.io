@@ -11,3 +11,7 @@ With Pisth you can work with files and use them with SSH shell. It works also as
 - You can edit text files and code with colored syntax.
 - The Shell supports colors and real time output and input, so you can use text editors such as nano, vim, etc.
 - The Shell supports Bluetooth keyboard including arrows and ctrl keys but excluding function keys.
+
+# API
+
+Pisth has an API for importing files from your own app. See more at [https://pisth.github.io/docs/api/getting-started.html](https://pisth.github.io/docs/api/getting-started.html)
