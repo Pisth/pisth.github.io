@@ -8,7 +8,7 @@ From the developer of Pisth! Pisth APT allows you to manage your packages on Deb
 
 Why use Pisth APT:
 
-• Pisth APT is free (but there are ads).
+• Pisth APT is free (but there are ads).<br/>
 • You can easily browse, install, uninstall and update pakages.
 
 Pisth APT is based on Pisth.
