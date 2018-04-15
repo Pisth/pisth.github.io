@@ -1,18 +1,9 @@
-<img style='border-radius: 25px;' src="https://raw.githubusercontent.com/ColdGrub1384/Pisth/master/Pisth/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%402x.png">
-<br/>
-[![Download on the App Store](/appstorebadge.svg)](https://itunes.apple.com/us/app/pisth/id1331070425?ls=1&mt=8)
+Pisth were initially an open source iOS app, but now it's a big projects with many applications.
 
-![Screenshots](screenshots.png)
+# Projects
 
+There are 3 big projects:
 
-# Why use Pisth?
-
-With Pisth you can work with files and use them with SSH shell. It works also as a good mobile IDE, you can write code from editor, and compile from the shell.
-
-
-- Pisth is free (but there are ads and In App Purchases).
-- You can manage files in your SSH server and use the Shell in the same app.
-- You can edit text files and code with colored syntax.
-- The Shell supports colors and real time output and input, so you can use text editors such as nano, vim, etc.
-- The Shell supports Bluetooth keyboard including arrows and ctrl keys but excluding function keys.
-
+- [Pisth](/ios): iOS SSH and SFTP client
+- [Pisth APT](/apt): iOS SSH client for managing Aptitude packages.
+- [Pisth Viewer](/PisthViewer): macOS application that works with Pisth to share an SSH terminal.
