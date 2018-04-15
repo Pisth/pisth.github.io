@@ -1,3 +1,7 @@
+<img style='border-radius: 25px;' src="https://raw.githubusercontent.com/ColdGrub1384/Pisth/master/Pisth/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%402x.png">
+<br/>
+<a href="https://itunes.apple.com/us/app/pisth/id1331070425?ls=1&mt=8"><img src="/appstorebadge.svg" width=200px></a>
+
 ![Screenshots](screenshots.png)
 
 
