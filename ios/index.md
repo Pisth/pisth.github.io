@@ -6,6 +6,10 @@
 ![Screenshots](screenshots.png)
 
 
+# 11.0 Coming soon!
+
+The 11.0 version will be available on September with compatibilty for iOS 12 features, better multitasking for iPad and more! [Send me an email](mailto:adri_labbe@hotmail.com?subject=Pisth%20Beta%20Testing) for beta testing.
+
 Why use Pisth?
 
 With Pisth you can work with files and use them with SSH shell. It works also as a good mobile IDE, you can write code from editor, and compile from the shell.
