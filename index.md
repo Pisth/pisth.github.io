@@ -1,4 +1,6 @@
-Pisth were initially an open source iOS app, but now it's a big projects with many applications.
+![mockup](mockup.png)
+
+Pisth was initially an open source iOS app, but now it's a big projects with many applications.
 
 # Projects
 
