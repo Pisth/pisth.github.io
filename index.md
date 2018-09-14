@@ -1,3 +1,8 @@
+## Pisth 11 is now available
+
+[Download Pisth 11.0 on the App Store](https://itunes.apple.com/us/app/pisth/id1331070425?mt=8). The update has a lot of new features and supports Siri Sortcuts.
+
+
 ![mockup](mockup.png)
 
 Pisth was initially an open source iOS app, but now it's a big projects with many applications.
