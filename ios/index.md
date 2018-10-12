@@ -14,6 +14,7 @@ Features:
 • Manage files in your SSH server and use the Shell in the same app.
 • Edit text files and code with colored syntax.
 • The terminal is like xterm, so you can use text editors such as nano, vim, etc. 
+• A local terminal is integrated with Python 2.7 and Lua.
 • SSH Keys
 • Drag and drop.
 • Send special keys.
